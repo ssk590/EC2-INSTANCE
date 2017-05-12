@@ -5,4 +5,4 @@ provider "aws" {
 }
 resource "aws_instance" "MyAWSResource" {
    ami             = ""
-   instance_type   = "t2.
+   instance_type   = "t2.micro shiva
